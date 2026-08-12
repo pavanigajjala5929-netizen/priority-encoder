@@ -1,0 +1,5 @@
+Time=0  | D3=0 D2=0 D1=0 D0=0 | Y1=0 Y0=0 Valid=0
+Time=10 | D3=0 D2=0 D1=0 D0=1 | Y1=0 Y0=0 Valid=1
+Time=20 | D3=0 D2=0 D1=1 D0=0 | Y1=0 Y0=1 Valid=1
+Time=30 | D3=0 D2=1 D1=0 D0=0 | Y1=1 Y0=0 Valid=1
+Time=40 | D3=1 D2=0 D1=0 D0=0 | Y1=1 Y0=1 Valid=1
